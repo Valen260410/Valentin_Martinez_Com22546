@@ -1,0 +1,4 @@
+model\Camiseta.class
+data\CamisetaDAO.class
+data\Conexion.class
+controller\ServletControlador.class
